@@ -12,11 +12,8 @@
   color: white;
 }
 
-nav {
-  display: none;
+.col {
+  width: 18rem;
 }
 
 
-/* img {
-  width: 100px;
-} */
